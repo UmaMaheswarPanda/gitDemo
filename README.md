@@ -1,3 +1,4 @@
 # gitDemo
-my first git clone
+my first git 
 https://github.com/UmaMaheswarPanda/gitDemo.git
+helloo friends 
